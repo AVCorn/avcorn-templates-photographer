@@ -861,7 +861,7 @@ input, select, textarea {
 			line-height: inherit;
 		}
 
-		.icon:before, .social-icon.solid:before {
+		.icon.solid:before, .social-icon.fa:before {
 			font-weight: 900;
 		}
 

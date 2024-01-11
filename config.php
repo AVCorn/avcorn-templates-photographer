@@ -22,5 +22,6 @@ declare(strict_types=1);
  * @var array $config Configuration
  */
 $config['info']['company'] = "Nutty Photography";
-$config['info']['title']   = 'Hello, my name<br /> is Nutty';
+$config['info']['title']   = 'Nutty Photography';
+$config['info']['motto']   = 'Hello, my name<br /> is Nutty';
 $config['home']            = '/home/photographer';
